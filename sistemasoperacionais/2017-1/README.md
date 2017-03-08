@@ -34,10 +34,10 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   16  |          |  Endereçamento         |                                                        |
 |   17  |          |  Paginação             |                                                        |
 |   18  |          |  Paginação             |                                                        |
-|   19  |          |  Segmentação           |                                                        |
+|   19  |          |  Memória Virtual       |                                                        |
 |   20  |          |  Memória Virtual       |                                                        |
 |   21  |          |  Memória Virtual       |                                                        |
-|   22  |          |  Memória Virtual       |                                                        |
+|   22  |          |  Segmentação           |                                                        |
 |   23  |          |  Entrada e Saída       |                                                        |
 |   24  |          |  Entrada e Saída       |                                                        |
 |   25  |          |  Arquivos              |                                                        |
