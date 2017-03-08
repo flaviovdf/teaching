@@ -29,21 +29,25 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   11  |          |  Sincronização         |                                                        |
 |   12  |          |  Deadlocks             |                                                        |
 |   13  |          |  Deadlocks             |                                                        |
-|   14  |          |  *Prova 1*             |                                                        |
-|   15  |          |  Endereçamento         |                                                        |
-|   16  |          |  Paginação             |                                                        |
+|   14  |          |  *Dúvidas+Exercícios*  |                                                        |
+|   15  |          |  *Prova 1*             |                                                        |
+|   16  |          |  Endereçamento         |                                                        |
 |   17  |          |  Paginação             |                                                        |
-|   18  |          |  Memória Virtual       |                                                        |
+|   18  |          |  Paginação             |                                                        |
 |   19  |          |  Memória Virtual       |                                                        |
 |   20  |          |  Memória Virtual       |                                                        |
-|   21  |          |  Segmentação           |                                                        |
-|   22  |          |  Arquivos              |                                                        |
+|   21  |          |  Memória Virtual       |                                                        |
+|   22  |          |  Segmentação           |                                                        |
 |   23  |          |  Arquivos              |                                                        |
-|   24  |          |  Entrada e Saída       |                                                        |
-|   25  |          |  Proteção              |                                                        |
-|   26  |          |  Virtualização         |                                                        |
-|   27  |          |  Sistemas Multi Core   |                                                        |
-|   28  |          |  *Prova 2*             |                                                        |
+|   24  |          |  Arquivos              |                                                        |
+|   25  |          |  Entrada e Saída       |                                                        |
+|   26  |          |  Proteção              |                                                        |
+|   27  |          |  Virtualização         |                                                        |
+|   28  |          |  Sistemas Multi Core   |                                                        |
+|   19  |          |  *Dúvidas+Exercícios*  |                                                        |
+|   30  |          |  *Prova 2*             |                                                        |
+|   31  |          |  *Exame Suplementar*   |                                                        |
+|   32  |          |  *Exame Final*         |                                                        |
 
 [00-Apresentação]: ./slides/00-Apresentacao.pdf
 [01-Introdução]: ./slides/01-Introducao.pdf
