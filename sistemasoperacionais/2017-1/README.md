@@ -14,12 +14,9 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 
 **Plano de aulas inicial**
 
-[00]: ./slides/00 - Apresentacao.pdf
-[01]: ./slides/01 - Introducao.pdf
-
 | Aula  | Data     |  Assunto               | Link Slides                                            |
 |-------|----------|------------------------|--------------------------------------------------------|
-|   1   | 08/03/17 |  Introdução            | [00][Apresentação] [01][Introdução]                    |
+|   1   | 08/03/17 |  Introdução            | [00-Apresentação] e [01-Introdução]                    |
 |   2   |          |  Introdução            |                                                        |
 |   3   |          |  Processos             |                                                        |
 |   4   |          |  Processos             |                                                        |
@@ -47,3 +44,6 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   26  |          |  Virtualização         |                                                        |
 |   27  |          |  Sistemas Multi Core   |                                                        |
 |   28  |          |  *Prova 2*             |                                                        |
+
+[00-Apresentação]: ./slides/00-Apresentacao.pdf
+[01-Introdução]: ./slides/01-Introducao.pdf
