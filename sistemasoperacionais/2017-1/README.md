@@ -8,13 +8,15 @@ Monitores: Não Definido
 Aulas
 -----
 
-Slides serão disponibilizados no Google Drive.
+Slides também podem ser encontrados Google Drive.
 
 https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 
-| Aula | Data | Assunto | Agenda | Exercícios | Link Slides |
-|------|------|---------|--------|------------|-------------|
-|      |      |         |        |            |             |
+**Plano de aulas**
+
+| Aula  | Data     |  Assunto      | Agenda | Exercícios | Link Slides                                            |
+|-------|----------|---------------|--------|------------|--------------------------------------------------------|
+|   1   | 08/03/17 |  Introdução   |        |            |  [00 - Apresentação](./slides/00-Apresentacao.pdf)     |
 
 
 Trabalhos
