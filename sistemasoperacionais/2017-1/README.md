@@ -44,7 +44,7 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   26  |          |  Arquivos              |                                                        |
 |   27  |          |  Proteção              |                                                        |
 |   28  |          |  Sistemas Multi Core   |                                                        |
-|   19  |          |  *Dúvidas+Exercícios*  |                                                        |
+|   29  |          |  *Dúvidas+Exercícios*  |                                                        |
 |   30  |          |  *Prova 2*             |                                                        |
 |   31  |          |  *Exame Suplementar*   |                                                        |
 |   32  |          |  *Exame Final*         |                                                        |
