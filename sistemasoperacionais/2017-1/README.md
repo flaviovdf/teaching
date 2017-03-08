@@ -34,13 +34,13 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   16  |          |  Endereçamento         |                                                        |
 |   17  |          |  Paginação             |                                                        |
 |   18  |          |  Paginação             |                                                        |
-|   19  |          |  Memória Virtual       |                                                        |
+|   19  |          |  Segmentação           |                                                        |
 |   20  |          |  Memória Virtual       |                                                        |
 |   21  |          |  Memória Virtual       |                                                        |
-|   22  |          |  Segmentação           |                                                        |
-|   23  |          |  Arquivos              |                                                        |
-|   24  |          |  Arquivos              |                                                        |
-|   25  |          |  Entrada e Saída       |                                                        |
+|   22  |          |  Memória Virtual       |                                                        |
+|   23  |          |  Entrada e Saída       |                                                        |
+|   24  |          |  Entrada e Saída       |                                                        |
+|   25  |          |  Arquivos              |                                                        |
 |   26  |          |  Arquivos              |                                                        |
 |   27  |          |  Proteção              |                                                        |
 |   28  |          |  Sistemas Multi Core   |                                                        |
