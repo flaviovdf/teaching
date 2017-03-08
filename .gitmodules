@@ -1,0 +1,6 @@
+[submodule "SO-2017-1"]
+	path = SO-2017-1
+	url = git@github.com:flaviovdf/SO-2017-1.git
+[submodule "AEDS2-2017-1"]
+	path = AEDS2-2017-1
+	url = git@github.com:flaviovdf/AEDS2-2017-1
