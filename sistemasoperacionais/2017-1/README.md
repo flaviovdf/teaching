@@ -8,7 +8,7 @@ Monitores: Não Definido
 Aulas
 -----
 
-Slides também podem ser encontrados Google Drive.
+Slides também podem ser encontrados no Google Drive.
 
 https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 
