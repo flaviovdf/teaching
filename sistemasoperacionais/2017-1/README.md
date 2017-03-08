@@ -41,8 +41,8 @@ https://drive.google.com/drive/folders/0B0ryAvcYobs0c1oxSU9LaWdFbWs
 |   23  |          |  Arquivos              |                                                        |
 |   24  |          |  Arquivos              |                                                        |
 |   25  |          |  Entrada e Saída       |                                                        |
-|   26  |          |  Proteção              |                                                        |
-|   27  |          |  Virtualização         |                                                        |
+|   26  |          |  Arquivos              |                                                        |
+|   27  |          |  Proteção              |                                                        |
 |   28  |          |  Sistemas Multi Core   |                                                        |
 |   19  |          |  *Dúvidas+Exercícios*  |                                                        |
 |   30  |          |  *Prova 2*             |                                                        |
